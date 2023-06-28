@@ -1,6 +1,6 @@
 h3 {
   text-align: center;
-  color: blue;
+  color: white;
   font-style: bold;
 }
 
@@ -15,4 +15,11 @@ h3 {
   margin-right: auto;
   padding-left: 8px;
   margin-bottom: 8px;
+}
+
+body {
+  background-image: url(https://images4.alphacoders.com/130/1303494.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
